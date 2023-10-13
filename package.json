@@ -1,0 +1,12 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "Example files for training unit testing with jest",
+  "main": "src/math.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+  },
+  "author": "Andreas Kasch",
+  "license": "GPL-3.0"
+}
