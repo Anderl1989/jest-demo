@@ -6,7 +6,11 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "author": "Andreas Kasch",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
